@@ -1,9 +1,9 @@
 {
-  "name": "landing-page-dm",
-  "version": "0.1.0",
+  "name": "003-landing-page",
+  "version": "0.0.1",
   "private": true,
   "devDependencies": {
-    "react-scripts": "0.7.0"
+    "react-scripts": "0.6.1"
   },
   "dependencies": {
     "react": "^15.3.2",
